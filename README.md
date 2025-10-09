@@ -1,5 +1,6 @@
 ### software developement
-the repo is a software developement project for hust course design
+the repo is a software developement project for hust course design.
+
 contributors:
 - [heby](https://gitee.com/jiandankehby)
 - [xxxx](https://gitee.com/xxx)
