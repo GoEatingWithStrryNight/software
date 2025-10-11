@@ -2,7 +2,7 @@
 the repo is a software developement project for hust course design.
 
 leader:
-- xxxx
+- 刘子墨（应该是我。。。）
 
 contributors:
 - [何秉一](https://gitee.com/jiandankehby)
