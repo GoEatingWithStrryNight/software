@@ -2,10 +2,10 @@
 the repo is a software developement project for hust course design.
 
 contributors:
-- [heby](https://gitee.com/jiandankehby)
-- [xxxx](https://gitee.com/xxx)
-- [xxxx](https://gitee.com/xxxx)
-- [xxxx](https://gitee.com/xxxxx)
+- [何秉一](https://gitee.com/jiandankehby)
+- [刘子墨](https://gitee.com/liu-zimo-lzm)
+- [李子龙](https://gitee.com/xxxx)
+- [相子旋](https://gitee.com/xxxxx)
 
 ### project introduction
 we want to build a xxxx
