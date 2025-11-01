@@ -99,7 +99,7 @@ private fun AboutUsView(
                 modifier = Modifier
                     .wrapContentSize()
                     .nothing(),
-                text = "一刻记账",
+                text = "CoinFlow",
                 fontFamily = FontFamily(Font(com.xiaojinzi.tally.lib.res.R.font.res_font_xdks)),
                 style = MaterialTheme.typography.titleLarge.copy(
                     color = MaterialTheme.colorScheme.onSurface,
@@ -158,13 +158,13 @@ private fun AboutUsView(
                     AppServices
                         .systemSpi
                         ?.copyToClipboard(
-                            content = "xiaojinzi6666@gmail.com",
+                            content = "2423181022@qq.com",
                         )
                     Toast.makeText(app, "复制成功", Toast.LENGTH_SHORT).show()
                 },
             ) {
                 Text(
-                    text = "邮箱：xiaojinzi6666@gmail.com",
+                    text = "邮箱：2423181022@qq.com",
                     style = MaterialTheme.typography.labelMedium,
                     textAlign = TextAlign.Start,
                 )

@@ -884,7 +884,7 @@ fun MyView(
                 }
                 MyItemActionView2(
                     image = R.drawable.res_like1.toLocalImageItemDto(),
-                    title = "给一刻记账好评".toStringItemDto(),
+                    title = "给CoinFlow好评".toStringItemDto(),
                 ) {
                     AppRouterSystemApi::class
                         .routeApi()

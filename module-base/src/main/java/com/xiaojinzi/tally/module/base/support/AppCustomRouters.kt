@@ -20,7 +20,7 @@ fun systemShare(request: RouterRequest): Intent {
             )
             this.putExtra(
                 Intent.EXTRA_SUBJECT,
-                "一刻记账, 记录美好生活",
+                "CoinFlow, 记录美好生活",
             )
             this.putExtra(
                 Intent.EXTRA_TEXT,

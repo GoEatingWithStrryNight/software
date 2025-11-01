@@ -18,7 +18,7 @@
         </compositeConfiguration>
         <option name="testRunner" value="CHOOSE_PER_TEST" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="17" />
+        <option name="gradleJvm" value="jbr-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -29,7 +29,6 @@
             <option value="$PROJECT_DIR$/module-base" />
             <option value="$PROJECT_DIR$/module-core" />
             <option value="$PROJECT_DIR$/module-datasource" />
-            <option value="$PROJECT_DIR$/module-datasync" />
             <option value="$PROJECT_DIR$/module-image-picker" />
             <option value="$PROJECT_DIR$/module-image-preview" />
             <option value="$PROJECT_DIR$/module-main" />
@@ -39,13 +38,8 @@
             <option value="$PROJECT_DIR$/module-widget" />
             <option value="$PROJECT_DIR$/../opensource/app" />
             <option value="$PROJECT_DIR$/../opensource/module-network" />
-            <option value="$PROJECT_DIR$/../product/app/abroad" />
-            <option value="$PROJECT_DIR$/../product/app/domestic" />
-            <option value="$PROJECT_DIR$/../product/module-datasync" />
-            <option value="$PROJECT_DIR$/../product/module-network" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

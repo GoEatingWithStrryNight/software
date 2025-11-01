@@ -172,7 +172,7 @@ fun BillView(
                             .align(alignment = Alignment.Center)
                             .wrapContentSize()
                             .nothing(),
-                        text = "一刻记账",
+                        text = "CoinFlow",
                         fontFamily = FontFamily(Font(com.xiaojinzi.tally.lib.res.R.font.res_font_xdks)),
                         style = MaterialTheme.typography.titleMedium.copy(
                             fontWeight = FontWeight.Normal,
